@@ -102,7 +102,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    libxml2 \
+    libshim_camera \
     Snap
 
 # Connectivity Engine support (CNE)
