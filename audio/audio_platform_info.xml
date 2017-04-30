@@ -53,10 +53,7 @@
     <device_names>
          <device name="SND_DEVICE_OUT_VOICE_HANDSET" alias="earpiece-voice" />
          <device name="SND_DEVICE_OUT_VOICE_SPEAKER" alias="speaker-voice" />
-<<<<<<< HEAD
          <device name="SND_DEVICE_OUT_VOICE_HEADPHONES" alias="headphones-voice" />
-=======
->>>>>>> pme: audio: Restore our audio_platform_info.xml
          <device name="SND_DEVICE_IN_VOICE_DMIC" alias="dmic-endfire" />
          <device name="SND_DEVICE_IN_VOICE_SPEAKER_DMIC" alias="speaker-dmic-endfire" />
          <device name="SND_DEVICE_IN_HANDSET_MIC" alias="line" />
