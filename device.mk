@@ -113,9 +113,13 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libshim_camera
 
-# Snap
+# Google Camera
 PRODUCT_PACKAGES += \
-    Snap
+    Camera
+
+# Substratum
+PRODUCT_PACKAGES += \
+    substratum
 
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
