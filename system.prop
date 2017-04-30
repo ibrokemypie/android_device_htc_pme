@@ -102,3 +102,6 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+# Substratum ROM identifier
+ro.ibrokemy.version=ibrokemylineage
