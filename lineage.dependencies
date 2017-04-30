@@ -37,5 +37,15 @@
   {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "remote": "pie",
+    "repository": "android_packages_apps_camera",
+    "target_path": "packages/apps/Camera"
+  },
+  {
+    "remote": "pie",
+    "repository": "android_packages_apps_substratum",
+    "target_path": "packages/apps/substratum"
   }
 ]
